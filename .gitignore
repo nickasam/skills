@@ -1,0 +1,7 @@
+# Python 编译产物（skill 的 scripts/tests 运行后生成）
+__pycache__/
+*.pyc
+
+# 编辑器 / OS 杂项
+.DS_Store
+.env
